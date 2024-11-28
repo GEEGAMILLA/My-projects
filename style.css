@@ -24,7 +24,7 @@ img{
     font-weight: bolder;
 }
 body{
-    background-image:url('./img/auschool.jpg');
+    background-image:url('./auschool.jpg');
     background-size: 100%;
     font-family: 'Tw Cen MT';
     background-attachment: fixed;
